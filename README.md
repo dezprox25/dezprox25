@@ -1,184 +1,230 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:00ff88,100:0f172a&text=DEZPROX&fontSize=70&fontColor=ffffff&animation=fadeIn"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=320&color=0:00ff88,25:00c853,75:0f172a,100:020617&text=DEZPROX&fontColor=ffffff&fontSize=72&animation=fadeIn&fontAlignY=42&desc=Engineering%20Tomorrow's%20Digital%20Products&descAlignY=62"/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=700&size=28&duration=3500&pause=1000&color=00FF88&center=true&vCenter=true&width=900&lines=Building+Products+That+Scale;Engineering+Modern+Digital+Experiences;Enterprise+Software+Development;Turning+Ideas+Into+Reality"/>
+<br>
 
-<p>
-
-<a href="https://dezprox.com">
-<img src="https://img.shields.io/badge/Website-00C853?style=for-the-badge"/>
-</a>
-
-<a href="https://linkedin.com/company/dezprox">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
-</a>
-
-</p>
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=26&duration=3500&pause=1000&color=00FF88&center=true&vCenter=true&width=1000&lines=██████+Initializing+Dezprox...;✔+Product+Engineering;✔+Enterprise+Software;✔+Cloud+Infrastructure;✔+AI+Solutions;✔+Building+Software+That+Scales"/>
 
 </div>
 
 ---
 
-# 🚀 About Dezprox
+# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"> Welcome to Dezprox
 
-Dezprox is a product engineering company focused on building scalable, high-performance software for startups, enterprises, and growing businesses.
+> **Engineering digital products that scale with businesses.**
 
-We combine modern engineering practices with thoughtful product design to deliver reliable digital solutions that scale.
+At **Dezprox**, we don't just build applications.
+
+We engineer complete software ecosystems that are scalable, secure, maintainable, and designed for long-term growth.
+
+From MVPs to enterprise platforms, every product is built with performance, clean architecture, and exceptional user experience in mind.
 
 ---
 
-# 🌟 What We Build
+# 🚀 What We Do
+
+<table>
+
+<tr>
+
+<td width="50%">
 
 ### 💼 Enterprise Software
 
-Business applications built for performance and growth.
+Business platforms built for scale.
 
----
+</td>
+
+<td width="50%">
+
+### ☁ Cloud Infrastructure
+
+Reliable deployments with modern DevOps.
+
+</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+### 📱 Web Applications
+
+Modern React & Next.js solutions.
+
+</td>
+
+<td>
 
 ### 📊 Analytics Platforms
 
-Real-time dashboards with actionable insights.
+Real-time dashboards & insights.
 
----
+</td>
+
+</tr>
+
+<tr>
+
+<td>
 
 ### 🎓 Learning Platforms
 
-Modern LMS solutions for organizations and institutions.
+Education and training ecosystems.
+
+</td>
+
+<td>
+
+### 🤖 AI Integration
+
+Intelligent automation and AI-powered workflows.
+
+</td>
+
+</tr>
+
+</table>
 
 ---
 
-### 👨‍💼 HR & Employee Systems
-
-Attendance, payroll, leave, task management, and collaboration.
-
----
-
-### 🏗 Construction ERP
-
-Complete project management ecosystem.
-
----
-
-# 💻 Technologies
+# ⚙ Engineering Stack
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=react,nextjs,typescript,nodejs,nestjs,express,mongodb,postgres,redis,docker,aws,tailwind,figma,git,github"/>
+<img src="https://skillicons.dev/icons?i=react,nextjs,typescript,javascript,nodejs,nestjs,express,mongodb,postgres,redis,docker,aws,nginx,git,github,tailwind,vscode,figma&perline=9"/>
 
 </p>
 
 ---
 
-# 🏗 Engineering Principles
+# 🏗 Featured Products
 
-- Clean Architecture
-- Scalable Systems
-- High Performance
-- Secure by Design
-- Developer Experience
-- Automation First
-- User-Centered Design
-
----
-
-# 🌍 Our Mission
-
-To build software that simplifies complexity, empowers businesses, and creates lasting value through engineering excellence.
+| Product | Description |
+|----------|-------------|
+| 🟢 EMS | Enterprise Employee Management Platform |
+| 🟢 LMS | Multi-tenant Learning Management System |
+| 🟢 Construction ERP | Complete construction workflow solution |
+| 🟢 Analytics Suite | Live dashboards & reporting |
+| 🟢 Custom SaaS | Tailored software for growing businesses |
 
 ---
 
-# 📈 GitHub Activity
+# 🎯 Engineering Principles
+
+```text
+✓ Scalability First
+
+✓ Performance Driven
+
+✓ Security by Design
+
+✓ Developer Experience
+
+✓ Automation Everywhere
+
+✓ Clean Architecture
+
+✓ Modular Systems
+
+✓ Long-Term Maintainability
+```
+
+---
+
+# 📈 GitHub Analytics
 
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Dezprox&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Dezprox&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dezprox&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </p>
 
 ---
 
-# 🛠 Open Source
+# 🔥 Development Activity
 
-Coming Soon 🚀
+<p align="center">
 
-- UI Components
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Dezprox&theme=tokyonight&hide_border=true"/>
 
-- Starter Templates
-
-- CLI Tools
-
-- Developer Utilities
-
-- Enterprise Boilerplates
+</p>
 
 ---
 
-# 📬 Contact
+# 📊 Contribution Graph
 
-🌐 Website
+<p align="center">
 
-https://dezprox.com
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Dezprox&theme=github-compact"/>
 
-📧 Email
+</p>
 
-hello@dezprox.com
+---
 
-💼 LinkedIn
+# 🐍 Contribution Snake
 
-https://linkedin.com/company/dezprox
+> Automatically generated every day.
+
+<p align="center">
+
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg"/>
+
+</p>
+
+---
+
+# 🌍 Open Source Vision
+
+We believe great software grows through collaboration.
+
+Upcoming open-source initiatives include:
+
+- ⚡ React UI Components
+- 🚀 SaaS Starter Kits
+- 📦 Enterprise Boilerplates
+- 🎨 Design Systems
+- 🤖 AI Utilities
+- 🔧 Developer Tools
+
+---
+
+# 🌎 Connect
+
+<p align="center">
+
+<a href="https://dezprox.com">
+
+<img src="https://img.shields.io/badge/Website-00C853?style=for-the-badge"/>
+
+</a>
+
+<a href="https://github.com/Dezprox">
+
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+
+</a>
+
+<a href="https://linkedin.com/company/dezprox">
+
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
+
+</a>
+
+</p>
 
 ---
 
 <div align="center">
 
-### Engineering the Future.
+## 💚 Engineering Tomorrow.
 
-Building products that make an impact.
+### Building software that makes businesses faster, smarter, and stronger.
 
-⭐ Thanks for visiting!
+<img src="https://capsule-render.vercel.app/api?type=waving&section=footer&color=0:00ff88,100:0f172a"/>
 
 </div>
-
-
-
-═══════════════════════════════════════
-
-        DEZPROX
-
-Engineering Tomorrow's Digital Products
-
-═══════════════════════════════════════
-
-██████ Booting Dezprox Systems...
-
-✔ Cloud Infrastructure
-
-✔ Product Engineering
-
-✔ Enterprise SaaS
-
-✔ AI Solutions
-
-✔ Open Source
-
-═══════════════════════════════════════
-
-Featured Products
-
-◉ EMS Platform
-◉ Construction ERP
-◉ LMS Platform
-◉ Analytics Suite
-
-═══════════════════════════════════════
-
-Live GitHub Statistics
-
-Animated Contribution Graph
-
-Scrolling SVG Background
-
-Glowing Neon Dividers
-
-═══════════════════════════════════════
