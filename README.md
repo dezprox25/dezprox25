@@ -192,7 +192,7 @@ Upcoming open-source initiatives include:
 
 </a>
 
-<a href="https://linkedin.com/company/dezprox](https://www.linkedin.com/company/dezprox-llp">
+<a href="https://www.linkedin.com/company/dezprox-llp">
 
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
 
