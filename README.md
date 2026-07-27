@@ -146,23 +146,6 @@ Intelligent automation and AI-powered workflows.
 
 ---
 
-# 🔥 Development Activity
-
-<p align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Dezprox&theme=tokyonight&hide_border=true"/>
-
-</p>
-
----
-
-# 📊 Contribution Graph
-
-<p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Dezprox&theme=github-compact"/>
-
-</p>
 
 ---
 
